@@ -23,21 +23,36 @@ CPU Inter(R) Core(TM) i7-8750H CPU @ 2.20GHz
 ## Information
 
 1.项目名称:MaskIdentification
+
 2.文件夹简介：
-    Annotation：存放标签,因为文件太大，打包时已删除
-    ImageSets：存放训练集 测试集图片名称
-    JPEGImages：存放图片文件 因为文件太大 打包时已删除
-    LOG：存放权重文件
-    yolo3：存放yolo模型
-    model_data:存放yolo模型配置文件
+
+​    Annotation：存放标签,因为文件太大，打包时已删除
+
+​    ImageSets：存放训练集 测试集图片名称
+
+​    JPEGImages：存放图片文件 因为文件太大 打包时已删除
+
+​    LOG：存放权重文件
+
+​    yolo3：存放yolo模型
+
+​    model_data:存放yolo模型配置文件
+
 3.文件说明
-    convert.py 将.weight文件转为.h5文件
-    makeTxt.py随机生成训练集 测试集编号
-    voc_label.py将训练集路径信息与标签链接
-    yolo.py yolo设定模型参数，路径
-    yolo_video.py调用摄像头进行测试
+
+​    convert.py 将.weight文件转为.h5文件
+
+​    makeTxt.py随机生成训练集 测试集编号
+
+​    voc_label.py将训练集路径信息与标签链接
+
+​    yolo.py yolo设定模型参数，路径
+
+​    yolo_video.py调用摄像头进行测试
+
 4.程序运行方式 
-    使用终端打开该文件夹，并运行 pyhton yolo_video.py 等待片刻即可。
+
+​    使用终端打开该文件夹，并运行 pyhton yolo_video.py 等待片刻即可。
 
 
 
