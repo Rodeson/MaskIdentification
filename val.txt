@@ -1,0 +1,4 @@
+E:/code/python/YoloMask/MaskPrj/images/face119.jpg 491,908,202,683,1
+E:/code/python/YoloMask/MaskPrj/images/face197.jpg 149,482,218,561,1
+E:/code/python/YoloMask/MaskPrj/images/masks_00107.jpg 86,206,88,181,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0027.jpg 118,184,60,108,0

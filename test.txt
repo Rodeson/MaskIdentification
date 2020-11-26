@@ -1,0 +1,36 @@
+E:/code/python/YoloMask/MaskPrj/images/face1.jpg 81,286,163,309,1
+E:/code/python/YoloMask/MaskPrj/images/face109.jpg 81,245,63,257,1
+E:/code/python/YoloMask/MaskPrj/images/face111.jpg 340,677,264,640,1
+E:/code/python/YoloMask/MaskPrj/images/face14.jpg 158,492,208,535,1
+E:/code/python/YoloMask/MaskPrj/images/face162.jpg 91,290,122,336,1
+E:/code/python/YoloMask/MaskPrj/images/face194.jpg 349,777,584,1119,1
+E:/code/python/YoloMask/MaskPrj/images/face20.jpg 62,254,116,325,1
+E:/code/python/YoloMask/MaskPrj/images/face200.jpg 150,393,206,539,1
+E:/code/python/YoloMask/MaskPrj/images/face21.jpg 153,424,223,506,1
+E:/code/python/YoloMask/MaskPrj/images/face231.jpg 216,321,49,202,1
+E:/code/python/YoloMask/MaskPrj/images/face234.jpg 83,324,156,476,1
+E:/code/python/YoloMask/MaskPrj/images/face253.jpg 200,438,247,559,1
+E:/code/python/YoloMask/MaskPrj/images/face255.jpg 203,454,139,489,1
+E:/code/python/YoloMask/MaskPrj/images/face32.jpg 167,471,243,544,1
+E:/code/python/YoloMask/MaskPrj/images/face38.jpg 134,196,53,131,1 201,290,43,124,1
+E:/code/python/YoloMask/MaskPrj/images/face49.jpg 55,257,113,346,1
+E:/code/python/YoloMask/MaskPrj/images/face56.jpg 77,292,190,408,1
+E:/code/python/YoloMask/MaskPrj/images/face63.jpg 360,927,427,1040,1
+E:/code/python/YoloMask/MaskPrj/images/face91.jpg 110,303,100,358,1
+E:/code/python/YoloMask/MaskPrj/images/masks_00102.jpg 236,271,198,233,0 395,432,189,218,0 449,489,223,256,0 591,635,209,245,0 756,812,199,236,0
+E:/code/python/YoloMask/MaskPrj/images/masks_00108.jpg 92,141,43,89,0
+E:/code/python/YoloMask/MaskPrj/images/masks_00114.jpg 217,545,193,483,0 136,531,959,1205,0
+E:/code/python/YoloMask/MaskPrj/images/masks_00118.jpg 242,378,174,294,0
+E:/code/python/YoloMask/MaskPrj/images/masks_00126.jpg 78,450,452,787,0
+E:/code/python/YoloMask/MaskPrj/images/masks_00127.jpg 58,230,138,278,0
+E:/code/python/YoloMask/MaskPrj/images/masks_00129.jpg 208,426,164,361,0
+E:/code/python/YoloMask/MaskPrj/images/masks_00133.jpg 465,713,233,460,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0022.jpg 179,359,137,289,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0025.jpg 223,433,466,664,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0040.jpg 58,138,76,144,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0042.jpg 154,451,322,490,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0049.jpg 173,288,152,238,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0055.jpg 270,358,109,179,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0060.jpg 154,690,245,636,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0072.jpg 162,366,112,259,0
+E:/code/python/YoloMask/MaskPrj/images/masks_0094.jpg 524,769,159,403,0
