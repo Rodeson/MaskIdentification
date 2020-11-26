@@ -10,10 +10,10 @@ Keras 2.4.3
 
 CUDA 11.0
 
-
 Python 3.7.4
 
 ***Hardware：***
+
 GPU NVIDIA GeForce GTX 1050(4G)
 
 CPU Inter(R) Core(TM) i7-8750H CPU @ 2.20GHz
